@@ -5,7 +5,7 @@
 ## ¿Quién soy? 
 Soy un **Programador _Fullstack_** formado como ***Ingeniero de Sistemas e Informatica*** 
 
-Gracias a la programación logre terminar mi carrera profesional y debido a ello llego a gustarme mucho. Mi primer lenguaje de programacion fue **C++**. Sin duda una de las experiencias más motivadoras fue mi acercamiento al código. Luego decidi encaminarme por el entorno web y explotar mis habilidades **JavaScript y PHP**
+Gracias a la programación logre terminar mi carrera profesional y debido a ello llego a gustarme mucho. Mi primer lenguaje de programacion fue **C++**. Sin duda una de las experiencias más motivadoras fue mi acercamiento al código. Luego decidi encaminarme por el entorno web y explotar mis habilidades en **JavaScript y PHP**
 
 ## ¿Qué hago?
 Actualmente me dedico a dar mantenimiento a paginas web como sistemas web y a la par realizar proyectos que me permiten avanzar en mi formación como 
