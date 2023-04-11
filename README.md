@@ -29,8 +29,7 @@ Por lo que las principales tecnologías que manejo son:
 - **Sequelize**
 - **GIT**
 - **MongoDB**
-- **MySql**
-- 
+- **MySql** 
 
 Claramente incluyendo **HTML** y **CSS**
 
