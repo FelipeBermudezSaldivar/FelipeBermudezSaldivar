@@ -40,4 +40,5 @@ Soy un apasionado de la programacion con muchas ganas de seguir aprendiendo
 
 [Linkedin](https://www.linkedin.com/in/felipegerardobermudezsaldivar/)
 
+Portafolio:(https://propertyshop.top/FelipeBermudezSaldivar)
 Correo: pcprotechnologymff@gmail.com
