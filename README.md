@@ -14,7 +14,7 @@ programador. **Me fascina poder resolver problemas con codigo, siento que no es 
 ## ¿A dónde me dirijo?
 Mi objetivo principal es poder trabajar en las mas grandes startup haciendo codigo🎆
 
-La programacion me cambio la vida y me ayudo a salir adelante, disfruto mucho programar. Me apasiona ampliar mi perspectiva de las cosas que existen en el mundo y encontrar nuevas Tecnologias que son mucho mas avanzadas.
+La programacion me cambio la vida y me ayudo a salir adelante, disfruto mucho programar. Me apasiona ampliar mi perspectiva de las cosas que existen en el mundo y aprender nuevas tecnologias.
 
 ## ¿Qué tecnologías uso?
 El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental
@@ -28,6 +28,9 @@ Por lo que las principales tecnologías que manejo son:
 - **PostgreSQL**
 - **Sequelize**
 - **GIT**
+- **MongoDB**
+- **MySql**
+- 
 
 Claramente incluyendo **HTML** y **CSS**
 
