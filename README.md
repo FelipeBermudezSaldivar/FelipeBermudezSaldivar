@@ -1,16 +1,22 @@
-### Hi there 👋
+⭐️ From AcSoliz
 
-<!--
-**FelipeBermudezSaldivar/FelipeBermudezSaldivar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm Alan, passionate about programming. When I'm not studying or programming, I'm doing some of my favorite activities, like training or dancing some tanguitos. I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more. .
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔️ I'm currently learning
+React-redux
+JavaScript)
+Node
+😍 What i like to do:
+I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
+💡 Goals for 2022:
+Finish my first app on android and publish it on play store
+Learn the basics of TypeScript.
+Become skilled in NextJs and React Native
+Grow as a person
+⚡ Relevant achievement
+The last months I took the best course and training to program as FullStack
+🛠 Interested in:
+Desktop, mobile, fronted, devOps, backEnd.
+📲 Contact Information
+Linkedin: https://www.linkedin.com/in/acsoliz/
+Email: acsoliz@outlook.com
