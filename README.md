@@ -1,9 +1,9 @@
- # Hola! Mi nombre es Felipe Bermudez Saldivar
+ # Hola! 👋 Mi nombre es Felipe Bermudez Saldivar
  ### También conocido como Feli  
  
 
 ## ¿Quién soy? 
-Soy un **Programador _Fullstack_** formado como ***Ingeniero de Sistemas e Informatica*** 
+Soy un **Programador _Fullstack_**💻formado como ***Ingeniero de Sistemas e Informatica*** 
 
 Gracias a la programación logre terminar mi carrera profesional y debido a ello llego a gustarme mucho. Mi primer lenguaje de programacion fue **C++**. Sin duda una de las experiencias más motivadoras fue mi acercamiento al código. Luego decidi encaminarme por el entorno web y explotar mis habilidades en **JavaScript y PHP**
 
