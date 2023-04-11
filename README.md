@@ -38,7 +38,7 @@ Entre otras herramientas, también tengo conocimiento en **PHP**,**Laravel**,**W
 ### No dudes en contactarme! 
 Soy un apasionado de la programacion con muchas ganas de seguir aprendiendo
 
-[Linkedin](https://www.linkedin.com/in/felipegerardobermudezsaldivar/)
+- [Linkedin](https://www.linkedin.com/in/felipegerardobermudezsaldivar/)
+- [Portafolio](https://propertyshop.top/FelipeBermudezSaldivar)
+- Correo: pcprotechnologymff@gmail.com
 
-[web](https://propertyshop.top/FelipeBermudezSaldivar)
-Correo: pcprotechnologymff@gmail.com
