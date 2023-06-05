@@ -21,6 +21,8 @@ El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
 para despegar 🚀 
 Por lo que las principales tecnologías que manejo son: 
 
+- **Java** 
+- **AngularJs**
 - **Javascript** 
 - **React.js**
 - **Node.js**
@@ -29,7 +31,15 @@ Por lo que las principales tecnologías que manejo son:
 - **Sequelize**
 - **GIT**
 - **MongoDB**
+- **SQl**
 - **MySql** 
+- **Api Rest**
+- **Microservicios**
+- **Kafka**
+- **JPA**
+- **Arquitectura JEE**
+- **Spring**
+- **Oracle**
 
 Claramente incluyendo **HTML** y **CSS**
 
